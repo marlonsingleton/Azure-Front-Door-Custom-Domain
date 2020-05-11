@@ -1,4 +1,4 @@
-### Azure_Front_Door_Custom_Domain
+### Azure Front Door Custom Domain
 Configuration and Common Issues
 
 
